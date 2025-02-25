@@ -1,0 +1,9 @@
+package listas;
+
+public class ListaAlumnos {
+
+	public ListaAlumnos() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

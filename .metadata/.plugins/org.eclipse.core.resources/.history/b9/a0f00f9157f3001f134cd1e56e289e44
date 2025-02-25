@@ -1,0 +1,9 @@
+package metodos;
+
+public class NombresAlumnos {
+
+	public NombresAlumnos() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

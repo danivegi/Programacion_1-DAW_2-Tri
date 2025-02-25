@@ -1,0 +1,9 @@
+package metodos;
+
+public class AgruparPorCurso {
+
+	public AgruparPorCurso() {
+		// TODO Auto-generated constructor stub
+	}
+
+}
