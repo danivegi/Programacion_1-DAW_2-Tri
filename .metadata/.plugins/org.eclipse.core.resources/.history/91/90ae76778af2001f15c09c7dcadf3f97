@@ -1,0 +1,13 @@
+package modelo;
+
+public class Direccion {
+	
+	private String calle;
+	private String poblacion;
+	private String codPostal;
+
+	public Direccion() {
+		
+	}
+
+}

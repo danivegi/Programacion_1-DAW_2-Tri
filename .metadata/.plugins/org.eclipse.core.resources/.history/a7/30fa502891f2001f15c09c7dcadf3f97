@@ -1,0 +1,9 @@
+package excepciones;
+
+public class CodPostalException {
+
+	public CodPostalException() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

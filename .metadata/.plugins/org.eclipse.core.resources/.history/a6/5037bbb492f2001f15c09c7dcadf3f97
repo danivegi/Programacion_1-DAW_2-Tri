@@ -1,0 +1,13 @@
+package test;
+
+import modelo.Direccion;
+
+public class CompruebaUsuario {
+
+	public static void main(String[] args) {
+		try {
+			Direccion direccion = new Direccion("Calle Mayor", "Madrid", "Madrid", "28001");
+		}
+	}
+
+}

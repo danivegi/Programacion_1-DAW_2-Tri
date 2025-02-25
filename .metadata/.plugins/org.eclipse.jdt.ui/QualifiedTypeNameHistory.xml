@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.util.Map"/>
+    <fullyQualifiedTypeName name="java.util.HashMap"/>
+    <fullyQualifiedTypeName name="java.lang.Exception"/>
+    <fullyQualifiedTypeName name="excepciones.DniException"/>
+    <fullyQualifiedTypeName name="modelo.Direccion"/>
+    <fullyQualifiedTypeName name="modelo.Usuario"/>
+    <fullyQualifiedTypeName name="excepciones.CamposVacioException"/>
+</qualifiedTypeNameHistroy>

@@ -1,0 +1,9 @@
+package excepciones;
+
+public class CamposVacioException {
+
+	public CamposVacioException() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

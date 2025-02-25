@@ -1,0 +1,18 @@
+package test;
+
+import modelo.Direccion;
+import modelo.Usuario;
+
+public class CompruebaUsuario {
+
+	public static void main(String[] args) {
+		try {
+			Direccion direccion = new Direccion("Calle Mayor", "Madrid", "Madrid", "28001");
+			Usuario usuario = new Usuario("Juan", "Perez", "32098557X", direccion);
+			System.out.println("Usuario creado con éxito");
+		} catch (Exception e) {
+			System.out.println("Error: " + e.getMessage());
+		}
+	}
+
+}

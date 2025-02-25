@@ -1,0 +1,14 @@
+package utilidades;
+
+import java.util.HashMap;
+import java.util.Map;
+
+public class ValidarCodPostalYProvincia {
+
+	public ValidarCodPostalYProvincia() {
+		// TODO Auto-generated constructor stub
+		
+		private static final Map<String, String> provincias = new HashMap<>();
+	}
+
+}

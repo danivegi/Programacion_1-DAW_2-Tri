@@ -1,0 +1,65 @@
+package modelo;
+
+import excepciones.CamposVacioException;
+
+public class Direccion {
+	
+	private String calle;
+	private String poblacion;
+	private String provincia;
+	private String codPostal;
+	
+	//Constructor vacío
+	public Direccion() {
+		
+	}
+
+	public Direccion(String calle, String poblacion, String provincia, String codPostal) throws CamposVacioException {
+		super();
+		this.setCalle(calle);
+		this.setPoblacion(poblacion);
+		this.provincia = provincia;
+		this.codPostal = codPostal;
+	}
+
+	public String getCalle() {
+		return calle;
+	}
+
+	public void setCalle(String calle) {
+		this.calle = calle;
+	}
+
+	public String getPoblacion() {
+		return poblacion;
+	}
+
+	public void setPoblacion(String poblacion) {
+		this.poblacion = poblacion;
+	}
+
+	public String getProvincia() {
+		return provincia;
+	}
+
+	public void setProvincia(String provincia) {
+		this.provincia = provincia;
+	}
+
+	public String getCodPostal() {
+		return codPostal;
+	}
+
+	public void setCodPostal(String codPostal) {
+		this.codPostal = codPostal;
+	}
+
+	@Override
+	public String toString() {
+		return "Direccion [calle=" + calle + ", poblacion=" + poblacion + ", provincia=" + provincia + ", codPostal="
+				+ codPostal + "]";
+	}
+	
+	
+
+}

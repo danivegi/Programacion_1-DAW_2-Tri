@@ -1,0 +1,9 @@
+package utilidades;
+
+public class ValidarCodPostalYProvincia {
+
+	public ValidarCodPostalYProvincia() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

@@ -1,0 +1,9 @@
+package excepciones;
+
+public class DniException {
+
+	public DniException() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

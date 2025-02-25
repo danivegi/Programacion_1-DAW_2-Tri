@@ -1,0 +1,21 @@
+package vista;
+
+public class Main {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		System.out.println("Hola mundo.");
+		
+		//Tarea Lunes 24.
+		
+		/* Crear clase Dirección.
+		 * Atributos: Calle, Poblacion, Cod Postal. Los 3 de tipo String
+		 * 
+		 * En utilidades tenemos que tener un método que se llame Validar_Cod_Postal_y_Provincia
+		 * 
+		 * Hacer la excepción CamposVacio y CodPostalException
+		 */
+
+	}
+
+}

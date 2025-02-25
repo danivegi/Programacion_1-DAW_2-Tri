@@ -1,0 +1,17 @@
+package modelo;
+
+public class Usuario {
+	
+	private String nombre;
+	private String apellido;
+	private String dni;
+	private Direccion direccion;
+
+	//Constructor vacío
+	public Usuario() {
+		// TODO Auto-generated constructor stub
+	}
+	
+	
+
+}
